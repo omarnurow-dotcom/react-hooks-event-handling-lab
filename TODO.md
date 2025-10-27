@@ -1,0 +1,3 @@
+- [x] Edit src/components/EyesOnMe.js to create the EyesOnMe component with a button and event handlers for focus and blur.
+- [x] Edit src/components/Keypad.js to add an input element with type="password" and onChange handler.
+- [x] Run tests to verify the implementations.
